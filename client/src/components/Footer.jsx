@@ -12,8 +12,8 @@ const Footer = () => {
             Bhakthi<span className="text-red-500">Mart</span>
           </h2>
           <p className="text-sm text-gray-400">
-            Bringing purity and divine fragrance into your home with premium
-            agarbatti products crafted with tradition and care.
+           BhakthiMart is a trusted name in agarbatti manufacturing, committed to delivering excellence through quality and tradition. 
+           Our incense products are made from carefully selected natural ingredients, ensuring a soothing and long-lasting aroma. 
           </p>
         </div>
 
@@ -21,10 +21,10 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold mb-4 text-red-500">Quick Links</h3>
           <ul className="space-y-2 text-gray-400">
-            <li><Link to="/" className="hover:text-white">Home</Link></li>
-            <li><Link to="/about" className="hover:text-white">About</Link></li>
-            <li><Link to="/product" className="hover:text-white">Products</Link></li>
-            <li><Link to="/contact" className="hover:text-white">Contact</Link></li>
+            <li><Link to="/" className="hover:text-red-500">Home</Link></li>
+            <li><Link to="/about" className="hover:text-red-500">About</Link></li>
+            <li><Link to="/product" className="hover:text-red-500">Products</Link></li>
+            <li><Link to="/contact" className="hover:text-red-500">Contact</Link></li>
           </ul>
         </div>
 
@@ -32,10 +32,10 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold mb-4 text-red-500">Products</h3>
           <ul className="space-y-2 text-gray-400">
-            <li>Agarbatti Sticks</li>
-            <li>Dhoop Sticks</li>
-            <li>Incense Cones</li>
-            <li>Pooja Kits</li>
+            <li><Link to="/" className="hover:text-red-500">Agarbatti Sticks</Link></li>
+            <li><Link to="/" className="hover:text-red-500">Dhoop Sticks</Link></li>
+            <li><Link to="/" className="hover:text-red-500">Incense Cones</Link></li>
+            <li><Link to="/" className="hover:text-red-500">Pooja Kits</Link></li>
           </ul>
         </div>
 
@@ -46,10 +46,10 @@ const Footer = () => {
             📍 Chennai, Tamil Nadu, India
           </p>
           <p className="text-gray-400 text-sm mb-2">
-            📞 +91 98844 85312
+            📞 +91 99400 12345
           </p>
           <p className="text-gray-400 text-sm mb-4">
-            ✉️ manij472@gmail.com
+            ✉️ bhakthimart@gmail.com
           </p>
 
           {/* Small Form */}
