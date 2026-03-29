@@ -14,7 +14,7 @@ const categories = [
     icon: <BookOpen size={40} />,
   },
   {
-    name: "Agarbatti",
+    name: "Agarbattis",
     icon: <Flame size={40} />,
   },
   {

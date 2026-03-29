@@ -35,7 +35,7 @@ const NavBar = () => {
             <button onClick={() => scrollToSection("home")} className="hover:text-red-600">Home</button>
             <button onClick={() => scrollToSection("about")} className="hover:text-red-600">About</button>
             <button onClick={() => scrollToSection("product")} className="hover:text-red-600">Product</button>
-            <button onClick={() => scrollToSection("contact")} className="hover:text-red-600">Contact</button>
+            <button onClick={() => scrollToSection("contact")} className="hover:text-red-600">Contact Us</button>
           </div>
 
           
@@ -51,7 +51,7 @@ const NavBar = () => {
           <button onClick={() => scrollToSection("home")}>Home</button>
           <button onClick={() => scrollToSection("about")}>About</button>
           <button onClick={() => scrollToSection("product")}>Product</button>
-          <button onClick={() => scrollToSection("contact")}>Contact</button>
+          <button onClick={() => scrollToSection("contact")}>Contact Us</button>
         </div>
       )}
     </>
