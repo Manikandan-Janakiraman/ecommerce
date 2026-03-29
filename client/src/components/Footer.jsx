@@ -44,7 +44,7 @@ const Footer = () => {
           <h3 className="text-lg font-semibold mb-4 text-red-500">Contact Us</h3>
 
           <p className="text-gray-400 text-sm mb-2">
-            📞 +91 99400 12345
+            📞 +91 99100 99100
           </p>
           <p className="text-gray-400 text-sm mb-2">
             ✉️ bhakthimart@gmail.com

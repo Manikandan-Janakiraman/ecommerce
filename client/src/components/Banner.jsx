@@ -1,5 +1,5 @@
 import product from '../assets/product.png'
-import banner from '../assets/dummy.png'
+import banner from '../assets/banner.png'
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/autoplay";
