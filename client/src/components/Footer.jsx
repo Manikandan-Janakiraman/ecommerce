@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <div className="w-full bg-gray-900 text-white pt-10 pb-6" id="contact">
-      
+
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-10">
 
         {/* 1. Brand */}
@@ -12,8 +12,8 @@ const Footer = () => {
             Bhakthi<span className="text-red-500">Mart</span>
           </h2>
           <p className="text-sm text-gray-400">
-           BhakthiMart is a trusted name in agarbatti manufacturing, committed to delivering excellence through quality and tradition. 
-           Our incense products are made from carefully selected natural ingredients, ensuring a soothing and long-lasting aroma. 
+            BhakthiMart is a trusted name in agarbatti manufacturing, committed to delivering excellence through quality and tradition.
+            Our incense products are made from carefully selected natural ingredients, ensuring a soothing and long-lasting aroma.
           </p>
         </div>
 
@@ -42,14 +42,15 @@ const Footer = () => {
         {/* 4. Contact + Form */}
         <div>
           <h3 className="text-lg font-semibold mb-4 text-red-500">Contact Us</h3>
-          <p className="text-gray-400 text-sm mb-2">
-            📍 Chennai, Tamil Nadu, India
-          </p>
+
           <p className="text-gray-400 text-sm mb-2">
             📞 +91 99400 12345
           </p>
-          <p className="text-gray-400 text-sm mb-4">
+          <p className="text-gray-400 text-sm mb-2">
             ✉️ bhakthimart@gmail.com
+          </p>
+          <p className="text-gray-400 text-sm mb-4">
+            📍 Chennai, Tamil Nadu, India
           </p>
 
           {/* Small Form */}

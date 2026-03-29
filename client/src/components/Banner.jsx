@@ -10,7 +10,7 @@ const Banner = () => {
         <>
             <Swiper
                 modules={[Autoplay]}
-                autoplay={{ delay: 3000 }}
+                autoplay={{ delay: 2000 }}
                 loop={true}
             >
 
@@ -72,6 +72,7 @@ const Banner = () => {
                         </div>
                     </div>
                 </SwiperSlide>
+
 
 
             </Swiper>
