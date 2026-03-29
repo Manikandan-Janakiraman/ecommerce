@@ -15,7 +15,7 @@ const About = () => {
                     Our incense products are made from carefully selected natural ingredients, ensuring a soothing and long-lasting aroma.
                     We blend modern techniques with age-old practices to provide products that enrich your spiritual journey and create a peaceful ambiance in every corner.
                 </p>
-
+            <br />
                 <p className="text-gray-700 text-base md:text-lg leading-relaxed">
                 Rooted in tradition and inspired by devotion, BhakthiMart specializes in manufacturing 
                 high-quality agarbatti that elevates every spiritual experience. Our products are carefully made using authentic 

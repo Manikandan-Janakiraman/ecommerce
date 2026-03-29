@@ -23,7 +23,7 @@ const Banner = () => {
                         <div className="flex flex-col justify-center gap-4 text-center md:text-left order-1 md:order-2">
                             <h1 className="text-3xl md:text-5xl font-bold text-red-600">
                                 Pure Devotion, <br />
-                                <span className="text-black">Crafted with Tradition</span>
+                                <span className="text-black">Crafted with Traditions</span>
                             </h1>
 
                             <p className="text-sm md:text-base text-black">

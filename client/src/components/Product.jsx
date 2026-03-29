@@ -52,7 +52,7 @@ const Product = () => {
 
                 <div className="flex flex-col justify-center">
                     <img src={p2} alt="" width={300} height={150} />
-                    <h2 className='text-center font-bold'>Camphor</h2>
+                    <h2 className='text-center font-bold'>Camphors</h2>
                     <p className='text-center'> Rs. 70</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
