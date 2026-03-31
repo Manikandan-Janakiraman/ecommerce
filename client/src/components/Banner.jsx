@@ -23,12 +23,12 @@ const Banner = () => {
                         <div className="flex flex-col justify-center gap-4 text-center md:text-left order-1 md:order-2">
                             <h1 className="text-3xl md:text-5xl font-bold text-red-600">
                                 Pure Devotion, <br />
-                                <span className="text-black">Crafted with Traditions</span>
+                                <span className="text-black">Crafted Traditions</span>
                             </h1>
 
                             <p className="text-sm md:text-base text-black">
                                 Bring home divine energy with our carefully crafted pooja products, <br />
-                                made with authentic materials and timeless traditions.
+                                made with authentic materials, timeless traditions.
                             </p>
                         </div>
 
