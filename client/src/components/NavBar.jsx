@@ -49,9 +49,9 @@ const NavBar = () => {
       {menuOpen && (
         <div className="md:hidden bg-white w-full flex flex-col items-center gap-6 py-6 shadow-lg">
           <button onClick={() => scrollToSection("home")}>Home</button>
-          <button onClick={() => scrollToSection("about")}>About</button>
+          <button onClick={() => scrollToSection("about")}>About Us</button>
           <button onClick={() => scrollToSection("product")}>Product</button>
-          <button onClick={() => scrollToSection("contact")}>Contact</button>
+          <button onClick={() => scrollToSection("contact")}>Contact Us</button>
         </div>
       )}
     </>
