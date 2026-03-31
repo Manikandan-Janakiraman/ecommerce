@@ -12,7 +12,7 @@ const Footer = () => {
             Bhakthi<span className="text-red-500">Mart</span>
           </h2>
           <p className="text-sm text-gray-400">
-            BhakthiMart is a trusted name in agarbatti manufacturing, committed to delivering excellence through quality and tradition.
+            BhakthiMart is a trusted name in agarbatti manufacturing, committed to delivering excellence through quality and tradition. <br /><br />
             Our incense products are made from carefully selected natural ingredients, ensuring a soothing and long-lasting aroma.
           </p>
         </div>
@@ -24,7 +24,7 @@ const Footer = () => {
             <li><Link to="/" className="hover:text-red-500">Home</Link></li>
             <li><Link to="/about" className="hover:text-red-500">About</Link></li>
             <li><Link to="/product" className="hover:text-red-500">Products</Link></li>
-            <li><Link to="/contact" className="hover:text-red-500">Contact Us</Link></li>
+            <li><Link to="/contact" className="hover:text-red-500">Contact</Link></li>
           </ul>
         </div>
 

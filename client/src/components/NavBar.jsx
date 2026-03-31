@@ -51,7 +51,7 @@ const NavBar = () => {
           <button onClick={() => scrollToSection("home")}>Home</button>
           <button onClick={() => scrollToSection("about")}>About</button>
           <button onClick={() => scrollToSection("product")}>Product</button>
-          <button onClick={() => scrollToSection("contact")}>Contact Us</button>
+          <button onClick={() => scrollToSection("contact")}>Contact</button>
         </div>
       )}
     </>

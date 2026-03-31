@@ -8,8 +8,11 @@ const Product = () => {
             <div className="flex flex-row justify-center h-20 mt-7" id='product'>
                 <div className="flex">
                     <h2 className="text-center text-4xl font-bold">Our Products</h2>
+   
                 </div>
+                
             </div>
+                
             <div className="max-w-7xl mx-auto px-4 mb-10 md:px-10 flex flex-col md:flex-row justify gap-7 items-center text-sm md:text-base">
 
                 <div className="flex flex-col justify-center">
