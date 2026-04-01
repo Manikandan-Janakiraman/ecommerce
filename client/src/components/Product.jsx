@@ -17,14 +17,14 @@ const Product = () => {
 
                 <div className="flex flex-col justify-center">
                     <img src={p1} alt="" width={300} height={150} />
-                    <h2 className='text-center font-bold'>Agarbathi</h2>
+                    <h2 className='text-center font-bold'>Kalash</h2>
                     <p className='text-center'> Rs. 250</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
 
                 <div className="flex flex-col justify-center">
                     <img src={p2} alt="" width={300} height={150} />
-                    <h2 className='text-center font-bold'>Kalash</h2>
+                    <h2 className='text-center font-bold'> Agarbathi</h2>
                     <p className='text-center'> Rs. 400</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
@@ -38,7 +38,7 @@ const Product = () => {
 
                 <div className="flex flex-col justify-center">
                     <img src={p4} alt="" width={300} height={150} />
-                    <h2 className='text-center font-bold'>Idols</h2>
+                    <h2 className='text-center font-bold'>Panchapatra</h2>
                     <p className='text-center'> Rs. 500</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
@@ -80,7 +80,7 @@ const Product = () => {
 
                 <div className="flex flex-col justify-center">
                     <img src={p1} alt="" width={300} height={150} />
-                    <h2 className='text-center font-bold'>Panchapatra </h2>
+                    <h2 className='text-center font-bold'>Idols </h2>
                     <p className='text-center'> Rs. 1000</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
