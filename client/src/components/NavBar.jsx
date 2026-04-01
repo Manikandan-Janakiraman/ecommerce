@@ -33,7 +33,7 @@ const NavBar = () => {
           
           <div className="hidden md:flex gap-10 font-medium">
             <button onClick={() => scrollToSection("home")} className="hover:text-red-600">Home</button>
-            <button onClick={() => scrollToSection("about")} className="hover:text-red-600">About</button>
+            <button onClick={() => scrollToSection("about")} className="hover:text-red-600">About Us</button>
             <button onClick={() => scrollToSection("product")} className="hover:text-red-600">Product</button>
             <button onClick={() => scrollToSection("contact")} className="hover:text-red-600">Contact Us</button>
           </div>
@@ -55,7 +55,7 @@ const NavBar = () => {
         </div>
       )}
     </>
-  );
+  );  
 };
 
 export default NavBar;
