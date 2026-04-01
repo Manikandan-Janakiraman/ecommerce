@@ -94,14 +94,14 @@ const Product = () => {
 
                 <div className="flex flex-col justify-center">
                     <img src={p3} alt="" width={300} height={150} />
-                    <h2 className='text-center font-bold'>Turmeric</h2>
+                    <h2 className='text-center font-bold'>Bell</h2>
                     <p className='text-center'> Rs. 55</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
 
                 <div className="flex flex-col justify-center">
                     <img src={p4} alt="" width={300} height={150} />
-                    <h2 className='text-center font-bold'>Bell </h2>
+                    <h2 className='text-center font-bold'>Turmeric </h2>
                     <p className='text-center'> Rs. 150</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
