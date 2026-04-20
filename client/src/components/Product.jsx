@@ -81,28 +81,28 @@ const Product = () => {
                 <div className="flex flex-col justify-center">
                     <img src={p1} alt="" width={300} height={150} />
                     <h2 className='text-center font-bold'>Idols </h2>
-                    <p className='text-center'> Rs. 1000</p>
+                    <p className='text-center'> Rs. 1200</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
 
                 <div className="flex flex-col justify-center">
                     <img src={p2} alt="" width={300} height={150} />
                     <h2 className='text-center font-bold'>Camphors</h2>
-                    <p className='text-center'> Rs. 30</p>
+                    <p className='text-center'> Rs. 20</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
 
                 <div className="flex flex-col justify-center">
                     <img src={p3} alt="" width={300} height={150} />
                     <h2 className='text-center font-bold'>Bell</h2>
-                    <p className='text-center'> Rs. 55</p>
+                    <p className='text-center'> Rs. 255</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
 
                 <div className="flex flex-col justify-center">
                     <img src={p4} alt="" width={300} height={150} />
                     <h2 className='text-center font-bold'>Turmeric </h2>
-                    <p className='text-center'> Rs. 150</p>
+                    <p className='text-center'> Rs. 50</p>
                     <button className='bg-red-600 text-white p-1 rounded'>Order Now</button>
                 </div>
 
