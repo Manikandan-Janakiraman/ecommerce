@@ -44,10 +44,10 @@ const Footer = () => {
           <h3 className="text-lg font-semibold mb-4 text-red-500">Contact</h3>
 
           <p className="text-gray-400 text-sm mb-2">
-            📞 +91 98765 43210
+            📞 +91 12345 67890
           </p>
           <p className="text-gray-400 text-sm mb-2">
-            ✉️ bhakthimart@gmail.com
+            ✉️ dummy@gmail.com
           </p>
           <p className="text-gray-400 text-sm mb-4">
             📍 Chennai, Tamil Nadu, India
