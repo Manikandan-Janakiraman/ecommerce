@@ -6,7 +6,7 @@ const About = () => {
 
 
                 <h2 className="text-3xl md:text-4xl font-bold text-red-600 mb-6">
-                    About Us
+                    About Bhakthi Mart 
                 </h2>
 
 
