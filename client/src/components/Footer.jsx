@@ -41,10 +41,10 @@ const Footer = () => {
 
         {/* 4. Contact + Form */}
         <div>
-          <h3 className="text-lg font-semibold mb-4 text-red-500">Contact Us</h3>
+          <h3 className="text-lg font-semibold mb-4 text-red-500">Contact</h3>
 
           <p className="text-gray-400 text-sm mb-2">
-            📞 +91 99100 99100
+            📞 +91 98765 43210
           </p>
           <p className="text-gray-400 text-sm mb-2">
             ✉️ bhakthimart@gmail.com

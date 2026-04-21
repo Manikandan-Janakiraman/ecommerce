@@ -32,7 +32,7 @@ const Categories = () => {
         
       
         <h2 className="text-2xl md:text-3xl font-bold text-center text-red-600 mb-10">
-          Shop by Category
+          Shops by Category
         </h2>
 
       
