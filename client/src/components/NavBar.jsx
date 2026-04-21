@@ -27,7 +27,7 @@ const NavBar = () => {
 
           
           <div className="font-bold text-xl md:text-3xl text-gray-900">
-            Bhakthi<span className="text-red-500">Mart</span>
+            Bhakthi<span className="text-red-500">Marts</span>
           </div>
 
           
