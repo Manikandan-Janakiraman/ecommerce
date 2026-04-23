@@ -28,7 +28,7 @@ const Banner = () => {
 
                             <p className="text-sm md:text-base text-black">
                                 Bring home divine energy with our carefully crafted pooja products, <br />
-                                made with authentic materials, timeless traditions.
+                                made authentic materials, timeless traditions.
                             </p>
                         </div>
 
