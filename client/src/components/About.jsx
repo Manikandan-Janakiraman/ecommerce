@@ -29,6 +29,12 @@ const About = () => {
                     With a deep commitment to quality, purity, and customer satisfaction, we strive to bring a sense of spiritual harmony and positivity into every home, 
                     making every moment more divine and meaningful. </p>
 
+                  <p className="text-gray-700 text-base md:text-lg leading-relaxed">
+                   At BhakthiMart, we are dedicated to preserving the sacred essence of traditional incense craftsmanship while embracing innovation to meet modern needs. 
+                   Each agarbatti is thoughtfully created to deliver a consistent, calming fragrance that enhances meditation, rituals, and everyday moments of peace.
+                    With a deep commitment to quality, purity, and customer satisfaction, we strive to bring a sense of spiritual harmony and positivity into every home, 
+                    making every moment more divine and meaningful. </p>
+
             
                 
             </div>
