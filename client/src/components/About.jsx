@@ -42,6 +42,12 @@ const About = () => {
                     and our incense sticks are crafted to bring calmness, positivity, and divine energy into your space.
                 </p>
                 
+                  <p className="text-gray-700 text-base md:text-lg leading-relaxed">
+                   BhakthiMart Rooted in tradition and inspired by devotion, BhakthiMart specializes in manufacturing
+                    high-quality agarbatti that elevates every spiritual experience. Our products are carefully made using authentic
+                    raw materials to ensure long-lasting fragrance and purity. We believe that every prayer deserves the essence of serenity,
+                    and our incense sticks are crafted to bring calmness, positivity, and divine energy into your space.
+                </p>
             </div>
 
         </div >
